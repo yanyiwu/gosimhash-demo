@@ -4,3 +4,5 @@ github.com/yanyiwu/gosimhash v1.1.1-0.20240817141632-34ea3b75b81d h1:w9kylgY43sU
 github.com/yanyiwu/gosimhash v1.1.1-0.20240817141632-34ea3b75b81d/go.mod h1:cLdFWvgdmbeg6KW1H968nbOtA6XrS4scklrvOxuN3ls=
 github.com/yanyiwu/gosimhash v1.3.0 h1:BvjwDf12HKmM+4ZFLDKEQXm+s5E2ve4oRvRW+ngBVEs=
 github.com/yanyiwu/gosimhash v1.3.0/go.mod h1:cLdFWvgdmbeg6KW1H968nbOtA6XrS4scklrvOxuN3ls=
+github.com/yanyiwu/gosimhash v1.3.1-0.20250501103437-fb4843c9d995 h1:jVlwqyYyXDWY4uXOyr4phb7Og4d01IB4Lp2312wFN0I=
+github.com/yanyiwu/gosimhash v1.3.1-0.20250501103437-fb4843c9d995/go.mod h1:cLdFWvgdmbeg6KW1H968nbOtA6XrS4scklrvOxuN3ls=
